@@ -1,0 +1,8 @@
+# One of these will show up when someone dies
+Dead-Messages:
+  - '&7&oI think you did a pretty good job so far...'
+  - '&7&oWhat now?'
+  - '&7&oHaha! Gotcha!'
+
+Chests:
+  default: 0.5
