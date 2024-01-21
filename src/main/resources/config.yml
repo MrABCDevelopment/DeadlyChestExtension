@@ -5,4 +5,8 @@ Dead-Messages:
   - '&7&oHaha! Gotcha!'
 
 Chests:
-  default: 0.5
+  default:
+    InstantKill: false
+    Damage: 4.0
+    PotionEffects:
+      - 'SLOW:60:3'
